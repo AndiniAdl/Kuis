@@ -12,7 +12,7 @@
     #kuis-container {
       background: white;
       padding: 20px;
-      max-width: 200px;
+      max-width: 500px;
       margin: auto;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
       border-radius: 12px;
@@ -42,7 +42,7 @@
 <body>
 
 <div id="kuis-container">
-  <h2 style="position: relative; left: 43%; text-decoration: underline;">KUIS</h2>
+  <h2 style="position: relative; left: 43%;">KUIS</h2>
 
   <div id="pilih-kategori">
     <h3 style="position: relative; top: -65%;">Pilih Jenis Kuis:</h3>
